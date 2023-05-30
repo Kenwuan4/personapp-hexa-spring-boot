@@ -19,4 +19,5 @@ public class Study {
 	private Profession profession;
 	private LocalDate graduationDate;
 	private String universityName;
+
 }
